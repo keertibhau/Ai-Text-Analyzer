@@ -45,7 +45,7 @@ plt.ioff()  # Turn off interactive mode
 
 PLOTS_DIR = "plots"
 os.makedirs(PLOTS_DIR, exist_ok=True)
-GEMINI_API_KEY = "AIzaSyAbFTcNf6-Xq64tma7ZV7V2EE59ZIQTm9Q"
+GEMINI_API_KEY = "(secret api key)"
 
 # ==========================
 # NLTK Setup
